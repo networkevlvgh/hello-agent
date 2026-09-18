@@ -1,0 +1,14 @@
+{
+  "name": "hello-agent",
+  "version": "1.0.0",
+  "description": "A minimal Node.js agent using the OpenAI API",
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0"
+  }
+}
